@@ -1,4 +1,4 @@
-![logo](https://github.com/thefarhan5/thefarhan25/blob/main/farhan githubphoto.png)
+![logo](https://github.com/thefarhan5/thefarhan25/blob/main/image.png)
 
 <h1 align="center">Hi , I'm Md Md Farhan</h1>
 <h3 align="center">A Passionate  Data Analytics || Data Science</h3>
