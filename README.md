@@ -1,5 +1,5 @@
-![logo](https://github.com/thefarhan5/thefarhan25/blob/main/image.png)
-
+<!--![logo](https://github.com/thefarhan5/thefarhan25/blob/main/image.png)-->
+<p align="left"> <img src="image.png" alt="thefarhan25"/> </p>
 
 <h1 align="center">Hi 👋, I'm Md Farhan</h1>
 <h3 align="center">A Passionate Data Analytics & Data Science Learner</h3>
