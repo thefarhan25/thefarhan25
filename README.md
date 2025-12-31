@@ -4,8 +4,13 @@
 <h1 align="center">Hi 👋, I'm Md Farhan</h1>
 <h3 align="center">A Passionate Data Analytics & Data Science Learner</h3>
 
-<img align="right" alt="Coding" width="400"
-src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<div align="center">
+  <img align="" alt="Coding" width="" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there!+It's+Md+Farhan;" alt="Typing SVG" />
+</div>
+
+<!--<img align="right" alt="Coding" width="400"
+src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>-->
 ![Profile Views](https://komarev.com/ghpvc/?username=thefarhan25&label=Profile%20Views&color=blue)
 
 ---
